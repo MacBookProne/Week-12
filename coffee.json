@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Espresso",
+            "category": "Beverage",
+            "quantity": 100,
+            "price": 2.5
+        },
+        {
+            "id": 2,
+            "name": "Cappuccino",
+            "category": "Beverage",
+            "quantity": 100,
+            "price": 3.0
+        },
+        {
+            "id": 3,
+            "name": "Latte",
+            "category": "Beverage",
+            "quantity": 100,
+            "price": 3.5
+        },
+        {
+            "id": 4,
+            "name": "Mocha",
+            "category": "Beverage",
+            "quantity": 100,
+            "price": 3.75
+        },
+        {
+            "id": 5,
+            "name": "Tea",
+            "category": "Beverage",
+            "quantity": 100,
+            "price": 2.0
+        },
+        {
+            "id": 6,
+            "name": "Croissant",
+            "category": "Food",
+            "quantity": 50,
+            "price": 2.5
+        },
+        {
+            "id": 7,
+            "name": "Bagel",
+            "category": "Food",
+            "quantity": 50,
+            "price": 1.5
+        },
+        {
+            "id": 8,
+            "name": "Muffin",
+            "category": "Food",
+            "quantity": 50,
+            "price": 2.0
+        },
+        {
+            "id": 9,
+            "name": "Scone",
+            "category": "Food",
+            "quantity": 50,
+            "price": 2.5
+        },
+        {
+            "id": 10,
+            "name": "Sandwich",
+            "category": "Food",
+            "quantity": 50,
+            "price": 5.0
+        }
+    ]
+}
